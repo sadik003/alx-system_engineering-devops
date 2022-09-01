@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files
 working directory to the user’s home directory
 sixth
+a script that create a directory 
