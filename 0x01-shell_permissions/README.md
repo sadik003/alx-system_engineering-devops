@@ -7,3 +7,4 @@ script that adds execute permission to the owner of the file hello
 a script that adds execution permission to the owner
 a script that sets the permission to the file hello
 Write a script that sets the mode of the file hello to this
+ a script that sets the mode of the file hello the same as olleh
