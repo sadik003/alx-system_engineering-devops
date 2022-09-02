@@ -13,3 +13,4 @@ Delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory
 script that changes the working directory to the previous one
 script that lists all files
+a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
