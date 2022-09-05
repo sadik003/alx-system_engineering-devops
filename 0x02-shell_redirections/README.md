@@ -3,3 +3,4 @@ a script that displays a confused smiley
 Display the content of a file
 Display 2
 display the last ten lines
+Script  to display 3rd line
