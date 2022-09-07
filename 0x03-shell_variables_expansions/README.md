@@ -5,3 +5,4 @@ Create a script that counts the number of directories in the PATH
 a script that lists all local variables and environment variables, and functions
 Create a script that creates a new local variable
 a script that prints the result of POWER divided by DIVIDE
+a script that displays the result of BREATH to the power LOVE
